@@ -1,0 +1,25 @@
+const dummy = [
+  { id: "1", picture: "/default-picture.jpg", date: "8 Desember 2023", title: "Produk ini memiliki kualitas terbaik dan harga terjangkau untuk semua." },
+  { id: "2", picture: "/default-picture.jpg", date: "9 Desember 2023", title: "Pilihan terbaik untuk memenuhi kebutuhan dapur Anda setiap hari." },
+  { id: "3", picture: "/default-picture.jpg", date: "10 Desember 2023", title: "Segar dari petani lokal dengan pengemasan yang sangat higienis dan aman." },
+  { id: "4", picture: "/default-picture.jpg", date: "11 Desember 2023", title: "Produk unggulan dengan rasa dan kualitas terbaik yang terjamin segar." },
+  { id: "5", picture: "/default-picture.jpg", date: "12 Desember 2023", title: "Harga terjangkau untuk produk berkualitas tinggi yang selalu tersedia." },
+  { id: "6", picture: "/default-picture.jpg", date: "13 Desember 2023", title: "Dapatkan produk segar yang dikirim langsung dari ladang setiap hari." },
+  { id: "7", picture: "/default-picture.jpg", date: "14 Desember 2023", title: "Produk ini memberikan nilai terbaik untuk kebutuhan dapur Anda." },
+  { id: "8", picture: "/default-picture.jpg", date: "15 Desember 2023", title: "Kualitas premium dengan harga kompetitif untuk semua kebutuhan dapur." },
+  { id: "9", picture: "/default-picture.jpg", date: "16 Desember 2023", title: "Pilih produk ini untuk memastikan Anda mendapatkan kualitas terbaik." },
+  { id: "10", picture: "/default-picture.jpg", date: "17 Desember 2023", title: "Bahan makanan segar yang memenuhi standar kualitas dan rasa terbaik." },
+  { id: "11", picture: "/default-picture.jpg", date: "18 Desember 2023", title: "Pilihan sempurna untuk kebutuhan masakan yang sehat dan lezat." },
+  { id: "12", picture: "/default-picture.jpg", date: "19 Desember 2023", title: "Produk berkualitas tinggi yang cocok untuk semua masakan favorit Anda." },
+  { id: "13", picture: "/default-picture.jpg", date: "20 Desember 2023", title: "Segar, higienis, dan sangat cocok untuk kebutuhan harian Anda di dapur." },
+  { id: "14", picture: "/default-picture.jpg", date: "21 Desember 2023", title: "Produk lokal dengan kualitas terbaik dan rasa yang memuaskan." },
+  { id: "15", picture: "/default-picture.jpg", date: "22 Desember 2023", title: "Kualitas dan rasa yang istimewa untuk semua kebutuhan dapur Anda." },
+  { id: "16", picture: "/default-picture.jpg", date: "23 Desember 2023", title: "Produk segar ini memberikan hasil terbaik untuk masakan Anda." },
+  { id: "17", picture: "/default-picture.jpg", date: "24 Desember 2023", title: "Rasa terbaik dan kualitas sempurna untuk semua kebutuhan masakan Anda." },
+  { id: "18", picture: "/default-picture.jpg", date: "25 Desember 2023", title: "Produk sehat dan segar yang cocok untuk gaya hidup Anda sehari-hari." },
+  { id: "19", picture: "/default-picture.jpg", date: "26 Desember 2023", title: "Pilihan bahan makanan terbaik dengan kualitas yang sangat terjamin." },
+  { id: "20", picture: "/default-picture.jpg", date: "27 Desember 2023", title: "Dapatkan kualitas terbaik dengan harga yang sangat kompetitif di sini." },
+  { id: "21", picture: "/default-picture.jpg", date: "28 Desember 2023", title: "Produk berkualitas tinggi dengan rasa yang memuaskan semua pelanggan." },
+];
+
+export default dummy;
